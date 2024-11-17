@@ -106,7 +106,6 @@ button {
     display: flex;
     margin-bottom: 20px;
     gap: 5px;
-    /* flex-wrap: wrap; */
 }
 
 .clock-item {
